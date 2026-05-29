@@ -1,0 +1,10 @@
+[
+    {
+        "id_mascota": 1,
+        "nombre": "kayla",
+        "especie": "perro",
+        "raza": "pastor aleman",
+        "edad": 6,
+        "id_cliente": 1
+    }
+]

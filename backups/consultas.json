@@ -1,0 +1,10 @@
+[
+    {
+        "id_consulta": 1,
+        "fecha": "15 de marzo",
+        "diagnostico": "tos",
+        "tratamiento": "jarabe",
+        "costo": 150.0,
+        "id_mascota": 1
+    }
+]
